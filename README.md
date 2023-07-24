@@ -1,1 +1,2 @@
-# Travellers-Data-Analysis
+# Travelers-Data-Analysis
+The data analysis would focus on understanding traveler preferences, behavior, and patterns to improve services, tailor offerings, identify potential areas for improvement, and provide personalized recommendations to enhance the overall travel experience. The ultimate goal is to use data-driven insights to make informed business decisions that positively impact customer satisfaction and drive business success in the travel industry.
